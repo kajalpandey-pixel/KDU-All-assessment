@@ -1,0 +1,2 @@
+org\example\library\service\config\PasswordConfig.class
+org\example\library\service\security\CustomUserDetailsService.class
